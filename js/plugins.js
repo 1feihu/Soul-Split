@@ -59,5 +59,5 @@ var $plugins =
 {"name":"TerraxLighting","status":true,"description":"v1.5.1 Creates an extra layer that darkens a map and adds lightsources!","parameters":{"Player radius":"100","Add to options":"Yes","Option menu entry":"Lighting effects","Reset Lights":"No","Save DaynightHours":"3","Save DaynightMinutes":"4","Save DaynightSeconds":"0","Flashlight offset":"0","Screensize X":"1366","Screensize Y":"768","Kill Switch":"D"}},
 {"name":"HIME_PreTitleEvents","status":true,"description":"Build your own sequence of events that should occur before\r\nthe title screen begins","parameters":{"Pre-Title Map ID":"38","Use As Title":"false"}},
 {"name":"HIME_CustomPageConditions","status":true,"description":"v1.4 - Create your own page conditions for your events using\r\nregular eventing!","parameters":{}},
-{"name":"HIME_MenuMusic","status":true,"description":"Allows you to set custom BGM to play whenever the player\r\nenters the menu.","parameters":{}}
+{"name":"HIME_MenuMusic","status":false,"description":"Allows you to set custom BGM to play whenever the player\r\nenters the menu.","parameters":{}}
 ];
