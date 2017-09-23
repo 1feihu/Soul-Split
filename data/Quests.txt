@@ -1,0 +1,26 @@
+<quest0>
+  name:Quest Test
+  level:1
+  category:Main
+  difficulty:Easy As Fuck
+  autoComplete:false
+  canAbandon:true
+  forceAccept:true
+  forceTurnin:true
+  qgiverName:Someone
+  location:Somewhere
+  <description>
+ Description line 1
+ Line 2
+ Line 3
+  <description>
+  <objectives>
+   {name:"Random Objective Name", max:1, hidden:false}
+  <objectives>
+  gold:100
+  exp:10
+  expScale:100    -modifies exp gained by +/-#% times difference between quest level and player level
+  <rewards>
+   {type:"item", id:1, amount:5}
+  <rewards>
+ <quest#>
