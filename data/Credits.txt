@@ -14,9 +14,22 @@ RPG Maker MV
 \c[2]Artwork
 Degica
 RPG Maker MV
+1feihu
+
+\c[2]Mapping
+It's gonna get old typing my username all the time.... just stop.
+
+\c[2]Testers
+RDrebel
+*placeholder name*
+*placeholder name*
+*placeholder name*
+*placeholder name*
+*placeholder name*
+*placeholder name*
 
 \c[2]Special Thanks
-All my supporters
+All the players who made this possible!
 </block>
 
 <block:-1,0,10,10,100,right>
