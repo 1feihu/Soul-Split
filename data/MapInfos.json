@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Intro Room","order":1,"parentId":0,"scrollX":1940,"scrollY":984},
-{"id":2,"expanded":true,"name":"World Map 1","order":5,"parentId":0,"scrollX":5746,"scrollY":3504},
-{"id":3,"expanded":true,"name":"Forest Town","order":6,"parentId":2,"scrollX":973.1999999999999,"scrollY":1366.8},
+{"id":2,"expanded":true,"name":"World Map 1","order":5,"parentId":0,"scrollX":5658,"scrollY":3478},
+{"id":3,"expanded":true,"name":"Forest Town","order":6,"parentId":2,"scrollX":1109,"scrollY":887},
 {"id":4,"expanded":false,"name":"Forest","order":7,"parentId":3,"scrollX":811,"scrollY":979},
 {"id":5,"expanded":false,"name":"Bar","order":8,"parentId":3,"scrollX":819,"scrollY":461},
 {"id":6,"expanded":true,"name":"World Map 1","order":46,"parentId":0,"scrollX":7786,"scrollY":4426},
