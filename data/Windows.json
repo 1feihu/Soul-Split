@@ -1,1 +1,1 @@
-{"Scene_Title":{"Window_TitleCommand":{"x":563,"y":528,"opacity":"255","width":"240","rows":"3","cols":"1","lineHeight":"36","align":"left"}}}
+{"Scene_Title":{"Window_TitleCommand":{"x":563,"y":528,"opacity":"255","width":"240","rows":"3","cols":"1","lineHeight":"36","align":"left"}},"Scene_Shop":{"Window_Help":{},"Window_ShopCommand":{},"Window_ShopInfo":{},"Window_ShopBuy":{},"Window_Gold":{},"Window_ShopStatus":{}}}
