@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Intro Room","order":1,"parentId":0,"scrollX":1940,"scrollY":984},
-{"id":2,"expanded":true,"name":"World Map 1","order":5,"parentId":0,"scrollX":4775,"scrollY":1569},
-{"id":3,"expanded":true,"name":"Forest Town","order":6,"parentId":2,"scrollX":860,"scrollY":1467},
+{"id":2,"expanded":true,"name":"World Map 1","order":5,"parentId":0,"scrollX":4775.333333333333,"scrollY":1569.3333333333333},
+{"id":3,"expanded":true,"name":"Forest Town","order":6,"parentId":2,"scrollX":811,"scrollY":723},
 {"id":4,"expanded":false,"name":"Forest","order":7,"parentId":3,"scrollX":811,"scrollY":979},
 {"id":5,"expanded":false,"name":"Bar","order":8,"parentId":3,"scrollX":819,"scrollY":461},
 {"id":6,"expanded":true,"name":"World Map 1","order":47,"parentId":0,"scrollX":7786,"scrollY":4426},
@@ -31,7 +31,7 @@ null,
 {"id":29,"expanded":false,"name":"Past Battlefield","order":41,"parentId":2,"scrollX":809,"scrollY":1091},
 {"id":30,"expanded":false,"name":"Abandoned Town","order":42,"parentId":2,"scrollX":1243,"scrollY":1467.5},
 {"id":31,"expanded":true,"name":"Player House","order":13,"parentId":3,"scrollX":819,"scrollY":461},
-{"id":32,"expanded":false,"name":"Mayors House","order":15,"parentId":3,"scrollX":540.6666666666666,"scrollY":461.3333333333333},
+{"id":32,"expanded":false,"name":"Mayors House","order":15,"parentId":3,"scrollX":819,"scrollY":461},
 {"id":33,"expanded":false,"name":"House Basement","order":14,"parentId":31,"scrollX":819,"scrollY":461},
 {"id":34,"expanded":false,"name":"Xynnar City Comercial","order":43,"parentId":2,"scrollX":1342,"scrollY":447.5},
 {"id":35,"expanded":false,"name":"Xynnar City Business","order":44,"parentId":2,"scrollX":869,"scrollY":453},
@@ -46,5 +46,5 @@ null,
 {"id":44,"expanded":false,"name":"Elevator 1st Floor","order":29,"parentId":43,"scrollX":819,"scrollY":461},
 {"id":45,"expanded":true,"name":"Office Building 1 2nd Floor","order":30,"parentId":43,"scrollX":819,"scrollY":461},
 {"id":46,"expanded":false,"name":"Elevator 2nd Floor","order":31,"parentId":45,"scrollX":819,"scrollY":461},
-{"id":47,"expanded":false,"name":"Small Shack","order":16,"parentId":3,"scrollX":546,"scrollY":307.3333333333333}
+{"id":47,"expanded":false,"name":"Small Shack","order":16,"parentId":3,"scrollX":832,"scrollY":640}
 ]
