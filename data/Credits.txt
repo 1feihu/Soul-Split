@@ -1,7 +1,10 @@
 Text that appears outside of the block tags
 will not display in the credits scene
 
-<block:-1,-1,10,10,offbot,center,SoulSplit>
+<block:-1,-1,10,10,offbot,center,Credits>
+Soul Split v0.05d Alpha
+
+
 CREDITS
 
 \c[2]Engine
@@ -9,17 +12,19 @@ Degica
 RPG Maker MV
 
 \c[2]Game Developer
-1feihu
+James Kile
 
 \c[2]Artwork
 Degica
 RPG Maker MV
-1feihu
+James Kile
 
 \c[2]Mapping
-It's gonna get old typing my username all the time.... just stop.
+James Kile
+Elixer_Ileka
 
 \c[2]Testers
+The entire Organization Mana: Noas-Iyro Team
 RDrebel
 *placeholder name*
 *placeholder name*
