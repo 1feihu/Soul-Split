@@ -1,12 +1,12 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Intro Room","order":1,"parentId":0,"scrollX":1940,"scrollY":984.5},
-{"id":2,"expanded":true,"name":"World Map 1","order":5,"parentId":0,"scrollX":5637,"scrollY":3299},
-{"id":3,"expanded":true,"name":"Forest Town","order":6,"parentId":2,"scrollX":975,"scrollY":1350},
-{"id":4,"expanded":false,"name":"Forest","order":7,"parentId":3,"scrollX":811,"scrollY":461},
+{"id":1,"expanded":true,"name":"Intro Room","order":1,"parentId":0,"scrollX":1940,"scrollY":985},
+{"id":2,"expanded":true,"name":"World Map 1","order":5,"parentId":0,"scrollX":4982,"scrollY":1403},
+{"id":3,"expanded":true,"name":"Forest Town","order":6,"parentId":2,"scrollX":1109,"scrollY":1231},
+{"id":4,"expanded":false,"name":"Forest","order":7,"parentId":3,"scrollX":811,"scrollY":979},
 {"id":5,"expanded":false,"name":"Bar","order":8,"parentId":3,"scrollX":819,"scrollY":461},
 {"id":6,"expanded":true,"name":"World Map 1","order":49,"parentId":0,"scrollX":7786,"scrollY":4426},
-{"id":7,"expanded":false,"name":"Inn","order":9,"parentId":3,"scrollX":811,"scrollY":499},
+{"id":7,"expanded":false,"name":"Inn","order":9,"parentId":3,"scrollX":832,"scrollY":640},
 {"id":8,"expanded":true,"name":"Iridis City","order":20,"parentId":2,"scrollX":811,"scrollY":616},
 {"id":9,"expanded":false,"name":"Ice Cave","order":19,"parentId":2,"scrollX":1278,"scrollY":1296},
 {"id":10,"expanded":true,"name":"Hospital (Outside)","order":21,"parentId":8,"scrollX":1011,"scrollY":1449},
@@ -49,5 +49,5 @@ null,
 {"id":47,"expanded":false,"name":"Small Shack","order":16,"parentId":3,"scrollX":819,"scrollY":461},
 {"id":48,"expanded":false,"name":"Spirit World","order":50,"parentId":0,"scrollX":1874,"scrollY":1651},
 {"id":49,"expanded":false,"name":"Abandoned House","order":17,"parentId":3,"scrollX":819,"scrollY":461},
-{"id":50,"expanded":false,"name":"Secret Tunnel","order":18,"parentId":3,"scrollX":811,"scrollY":739}
+{"id":50,"expanded":false,"name":"Secret Tunnel","order":18,"parentId":3,"scrollX":811,"scrollY":639}
 ]
