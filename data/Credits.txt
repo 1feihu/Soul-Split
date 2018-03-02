@@ -2,7 +2,7 @@ Text that appears outside of the block tags
 will not display in the credits scene
 
 <block:-1,-1,10,10,offbot,center,Credits>
-Soul Split v0.05d Alpha
+Soul Split v0.05 Alpha
 
 
 CREDITS
@@ -20,6 +20,10 @@ RPG Maker MV
 James Kile
 
 \c[2]Mapping
+James Kile
+Elixer_Ileka
+
+\c[2]Event Scripting
 James Kile
 Elixer_Ileka
 
