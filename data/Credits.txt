@@ -2,7 +2,7 @@ Text that appears outside of the block tags
 will not display in the credits scene
 
 <block:-1,-1,10,10,offbot,center,Credits>
-Soul Split v0.05 Alpha
+Soul Split v0.06 Alpha
 
 
 CREDITS
@@ -12,26 +12,26 @@ Degica
 RPG Maker MV
 
 \c[2]Game Developer
-James Kile
+James Kile *1feihu/Zein*
 
 \c[2]Artwork
 Degica
 RPG Maker MV
-James Kile
+James Kile *1feihu/Zein*
 
 \c[2]Mapping
-James Kile
-Elixer_Ileka
+James Kile *1feihu/Zein*
+Nathaniel Kile *Elixer_Ileka* (Not Yet)
 
 \c[2]Event Scripting
-James Kile
-Elixer_Ileka
+James Kile *1feihu/Zein*
+Nathaniel Kile *Elixer_Ileka* (Not Yet)
 
 \c[2]Testers
 The entire Organization Mana: Noas-Iyro Team
-RDrebel
-*placeholder name*
-*placeholder name*
+RDrebel (Windows Port)
+bloojai (Mac Port)
+TheXO (Windows Port)
 *placeholder name*
 *placeholder name*
 *placeholder name*
@@ -39,22 +39,7 @@ RDrebel
 
 \c[2]Special Thanks
 All the players who made this possible!
-</block>
 
-<block:-1,0,10,10,100,right>
-more lines aligned to the right
-second block
-</block>
 
-<block:-1,0,10,10,100,left,Plain>
-more lines
-third block
-more text here so this one should last longer than the last one
-because it uses the 'auto' setting (-1)
-
-There is no word wrapping in this plugin.
-</block>
-
-<block:999,0,10,10,300,center,Tower1>
-THE END
+More to be added!
 </block>
