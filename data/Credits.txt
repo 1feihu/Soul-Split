@@ -12,30 +12,36 @@ Degica
 RPG Maker MV
 
 \c[2]Game Developer
-James Kile *1feihu/Zein*
+James Kile "1feihu/Zein"
 
 \c[2]Artwork
 Degica
 RPG Maker MV
-James Kile *1feihu/Zein*
+James Kile "1feihu/Zein"
 
 \c[2]Mapping
-James Kile *1feihu/Zein*
-Nathaniel Kile *Elixer_Ileka* (Not Yet)
+James Kile "1feihu/Zein"
+Nathaniel Kile "Elixer_Ileka" (Not Yet)
 
 \c[2]Event Scripting
-James Kile *1feihu/Zein*
-Nathaniel Kile *Elixer_Ileka* (Not Yet)
+James Kile "1feihu/Zein"
+Nathaniel Kile "Elixer_Ileka" (Not Yet)
+
+\c[2]Player/NPC Sprites
+James Kile "1feihu/Zein"
+
+\c[2] Enemy Sprites
+Logan Gibson "UnholyKnight1995"
 
 \c[2]Testers
 The entire Organization Mana: Noas-Iyro Team
-RDrebel (Windows Port)
-bloojai (Mac Port)
-TheXO (Windows Port)
-*placeholder name*
-*placeholder name*
-*placeholder name*
-*placeholder name*
+RDrebel (Windows)
+bloojai (Mac)
+TheXO (Windows)
+Toothless (Windows)
+Stonoatdin (Windows)
+"placeholder name"
+"placeholder name"
 
 \c[2]Special Thanks
 All the players who made this possible!
