@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Intro Room","order":1,"parentId":0,"scrollX":1879,"scrollY":952},
 {"id":2,"expanded":true,"name":"World Map 1","order":5,"parentId":0,"scrollX":5995.636363636364,"scrollY":3174.5454545454545},
-{"id":3,"expanded":true,"name":"Forest Town","order":6,"parentId":2,"scrollX":1786.909090909091,"scrollY":1005.8181818181819},
+{"id":3,"expanded":true,"name":"Forest Town","order":6,"parentId":2,"scrollX":973.1999999999999,"scrollY":1005.5999999999999},
 {"id":4,"expanded":false,"name":"Forest","order":7,"parentId":3,"scrollX":811,"scrollY":979},
 {"id":5,"expanded":false,"name":"Bar","order":8,"parentId":3,"scrollX":819,"scrollY":461},
 {"id":6,"expanded":true,"name":"World Map 1","order":59,"parentId":0,"scrollX":5585.5,"scrollY":2763.5},
@@ -59,5 +59,5 @@ null,
 {"id":57,"expanded":false,"name":"Dungeon Var 5","order":26,"parentId":52,"scrollX":816,"scrollY":640},
 {"id":58,"expanded":false,"name":"Waterfall Forest","order":27,"parentId":3,"scrollX":778,"scrollY":1723.3333333333333},
 {"id":59,"expanded":false,"name":"Building 1","order":20,"parentId":51,"scrollX":819,"scrollY":461},
-{"id":60,"expanded":true,"name":"Forest Town (East District)","order":28,"parentId":3,"scrollX":953,"scrollY":775}
+{"id":60,"expanded":true,"name":"Forest Town (East District)","order":28,"parentId":3,"scrollX":973.1999999999999,"scrollY":553.1999999999999}
 ]
