@@ -59,6 +59,6 @@ null,
 {"id":57,"expanded":false,"name":"Dungeon Var 5","order":26,"parentId":52,"scrollX":816,"scrollY":640},
 {"id":58,"expanded":false,"name":"Waterfall Forest","order":27,"parentId":3,"scrollX":973.1999999999999,"scrollY":1723.1999999999998},
 {"id":59,"expanded":false,"name":"Building 1","order":20,"parentId":51,"scrollX":819,"scrollY":461},
-{"id":60,"expanded":true,"name":"Forest Town (East District)","order":28,"parentId":3,"scrollX":1109,"scrollY":482},
-{"id":61,"expanded":false,"name":"Forest (East District North)","order":29,"parentId":60,"scrollX":811,"scrollY":1229}
+{"id":60,"expanded":true,"name":"Forest Town (East District)","order":28,"parentId":3,"scrollX":836,"scrollY":453},
+{"id":61,"expanded":false,"name":"Forest (East District North)","order":29,"parentId":60,"scrollX":2184,"scrollY":1229.3333333333333}
 ]
