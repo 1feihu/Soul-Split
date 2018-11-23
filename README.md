@@ -1,4 +1,4 @@
 # RPG Maker MV Project
 # "Soul Split"
 
-Ignore for now.
+*This respository is used as a backup source, ignore completely.
