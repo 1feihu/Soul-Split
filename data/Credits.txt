@@ -34,14 +34,14 @@ James Kile "1feihu/Zein"
 Logan Gibson "UnholyKnight1995"
 
 \c[2]Testers
-The entire Organization Mana: Noas-Iyro Team
-RDrebel (Windows)
-bloojai (Mac)
-TheXO (Windows)
-Toothless (Windows)
-Stonoatdin (Windows)
-"placeholder name"
-"placeholder name"
+The entire Mana Trinity Dev Team v0.01+
+RDrebel (Windows) v0.03 - Early v0.06+
+bloojai (Mac) v0.05
+TheXO (Windows) v0.05
+Toothless (Windows) v0.05 - Early v0.06+
+Stonoatdin (Windows) v0.05 - Early v0.06+
+"placeholder slot"
+"placeholder slot"
 
 \c[2]Special Thanks
 All the players who made this possible!
