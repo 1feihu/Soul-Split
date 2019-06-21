@@ -3,7 +3,7 @@
 [Update]
 Name = Soul Split
 ProductVersion = 1.0.5.0
-URL = https://www.dropbox.com/s/xvvrt65gab6rvie/Soul%20Split%200.6.5.exe?dl=1
+URL = https://github.com/1feihu/Soul-Split/releases/download/v0.0.6Dev/Soul.Split.exe
 Size = 748926280
 MD5 = c1a2e7cdada1cec442ca3b080df2beb3
 ServerFileName = Soul Split 0.6.5.exe
