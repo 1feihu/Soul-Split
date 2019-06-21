@@ -4,7 +4,7 @@
 Name = Soul Split
 ProductVersion = 1.0.6.5
 URL = https://github.com/1feihu/Soul-Split/releases/download/v0.0.6Dev/Soul.Split.exe
-Size = 750188656
+Size = 750190592
 MD5 = c1a2e7cdada1cec442ca3b080df2beb3
 ServerFileName = Soul.Split.exe
 RegistryKey = HKUD\Software\Mana Trinity\Soul Split\Version
