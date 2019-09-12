@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"battlerName":"Player","characterIndex":0,"characterName":"Player","classId":1,"equips":[1,1,0,3,0],"faceIndex":0,"faceName":"Player Blank","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kade","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Karqua NoEars","characterIndex":0,"characterName":"Karqua NoEars","classId":3,"equips":[3,0,0,0,0],"faceIndex":0,"faceName":"Karqua BlankNoEars","traits":[],"initialLevel":1,"maxLevel":99,"name":"Akira","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Karqua NoEars","characterIndex":0,"characterName":"Karqua NoEars","classId":3,"equips":[3,0,0,0,0],"faceIndex":0,"faceName":"Karqua BlankSmile","traits":[],"initialLevel":1,"maxLevel":99,"name":"Akira","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"Character 3","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Character 3 Normal","traits":[],"initialLevel":1,"maxLevel":99,"name":"Noxis","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"Ax'in","characterIndex":3,"characterName":"Dragons","classId":6,"equips":[14,14,0,0,0],"faceIndex":1,"faceName":"Ax'in","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ax'in","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"Friend 1","characterIndex":0,"characterName":"Friend 1","classId":8,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Friend 1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hakar","nickname":"","note":"","profile":""},

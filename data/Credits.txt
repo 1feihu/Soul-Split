@@ -28,7 +28,7 @@ James Kile "1feihu/Zein"
 Nathaniel Kile "Elixer_Ileka" (Not Yet)
 
 \c[2]Player/NPC Sprites
-James Kile "1feihu/Zein"
+Zein
 
 \c[2] Enemy Sprites
 Logan Gibson "UnholyKnight1995"
@@ -38,9 +38,9 @@ The entire Mana Trinity Dev Team v0.01+
 RDrebel (Windows) v0.03 - Early v0.06+
 bloojai (Mac) v0.05
 TheXO (Windows) v0.05
-Toothless (Windows) v0.05 - Early v0.06+
-Stonoatdin (Windows) v0.05 - Early v0.06+
-"placeholder slot"
+Emerson (Windows) v0.05 - Early v0.06+
+Stoney (Windows) v0.05 - Early v0.06+
+Kat_playsYT (IOS) **Port In Development**
 "placeholder slot"
 
 \c[2]Special Thanks
