@@ -313,9 +313,9 @@ MUSH_Achievements.prototype.createAchievementsList = function() {
 		["Enthusiastic Adventurer", 1, "",         "Clear the game's Chapter 1.",              "-1/1/3",   "0/10/0",  false, true,  true] ,
 		["Skilled Adventurer",      2, "",         "Clear the game's Chapter 2.",              "1/4/1",    "1/11/5",  false, true,  true] ,
 		["Completionist ",           3, "",        "Clear the game's final chapter.",          "3/0/1000", "2/11/6",  false, true,  true] , 
-		["Hardcore Gamer (Placeholder)", 4, "",    "Accumulate at least 5 second of gameplay", "2/4/1",    "3/300/0", false, false, false] , 
+		["Hardcore Gamer (Placeholder)", 4, "",    "Accumulate at least 5 second of gameplay", "2/4/1",    "3/60000/0", false, false, false] , 
 		["I Like Walks! (Placeholder)",  5, "",    "Walk 10 steps",                            "3/0/1000", "4/10/0",  false, false, false] , 
-		["Test Achievement",		6, "",		   "Enter debug menu and turn on switch 30",   "-1/0/0",	"0/30/0", false, false, false] ,
+		["Pain and Suffering For Breakfast",		6, "",		   "Finish the intro.",   "-1/0/0",	"0/11/0", false, false, false] ,
 		["Test Achievement 2 (Custom Image Test)",	0, "Package1_1", "Test2 Turn on Switch 31",	 "-1/0/0",	"0/31/0", false, false, false] ,
 		["Placeholder",	0, "", "Placeholder",	 "-1/0/0",	"0/32/0", false, false, false] ,
 		
