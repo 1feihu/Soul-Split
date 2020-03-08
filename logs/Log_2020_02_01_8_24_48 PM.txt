@@ -1,0 +1,41 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1128
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+TypeError
+TypeError: Cannot read property 'addChild' of undefined
+    at Spriteset_Map.Spriteset_Base.updateScreenSprites (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:13774:46)
+    at Spriteset_Map.Spriteset_Base.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_sprites.js:2146:10)
+    at Spriteset_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_sprites.js:2275:37)
+    at Spriteset_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:28346:27)
+    at chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:262:19
+    at Array.forEach (<anonymous>)
+    at Scene_Map.Scene_Base.updateChildren (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:260:19)
+    at Scene_Map.Scene_Base.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:113:10)
+    at Scene_Map.Scene_Base.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/LTN_TimeEngine.js:578:30)
+    at Scene_Map.Scene_Base.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:23131:34)
+----------
+ERROR!
+Using AlphaABS [Build: 1128 ; on MV  1.6.1]
+----------
+ERROR!
+TypeError: Cannot read property 'addChild' of undefined
+    at Spriteset_Map.Spriteset_Base.updateScreenSprites (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:13774:46)
+    at Spriteset_Map.Spriteset_Base.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_sprites.js:2146:10)
+    at Spriteset_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_sprites.js:2275:37)
+    at Spriteset_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:28346:27)
+    at chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:262:19
+    at Array.forEach (<anonymous>)
+    at Scene_Map.Scene_Base.updateChildren (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:260:19)
+    at Scene_Map.Scene_Base.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:113:10)
+    at Scene_Map.Scene_Base.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/LTN_TimeEngine.js:578:30)
+    at Scene_Map.Scene_Base.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:23131:34)
+----------

@@ -1,0 +1,41 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1128
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+TypeError
+TypeError: Cannot read property 'absMotion' of undefined
+    at Game_Follower.refreshABSMotion (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:16813:29)
+    at Game_Follower.refresh (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:16808:14)
+    at Game_Followers.<anonymous> (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:8114:25)
+    at Array.forEach (<anonymous>)
+    at Game_Followers.forEach (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:8103:16)
+    at Game_Followers.refresh (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:8113:10)
+    at Game_Player.refresh (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:7441:21)
+    at Game_Player.refresh (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/QuasiSimpleShadows.js:285:31)
+    at Game_Player.performTransfer (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:7484:14)
+    at Game_Player.performTransfer (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/LTN_DayNight.js:312:37)
+----------
+ERROR!
+Using AlphaABS [Build: 1128 ; on MV  1.6.1]
+----------
+ERROR!
+TypeError: Cannot read property 'absMotion' of undefined
+    at Game_Follower.refreshABSMotion (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:16813:29)
+    at Game_Follower.refresh (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:16808:14)
+    at Game_Followers.<anonymous> (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:8114:25)
+    at Array.forEach (<anonymous>)
+    at Game_Followers.forEach (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:8103:16)
+    at Game_Followers.refresh (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:8113:10)
+    at Game_Player.refresh (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:7441:21)
+    at Game_Player.refresh (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/QuasiSimpleShadows.js:285:31)
+    at Game_Player.performTransfer (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:7484:14)
+    at Game_Player.performTransfer (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/LTN_DayNight.js:312:37)
+----------

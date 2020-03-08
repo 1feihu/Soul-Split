@@ -1,0 +1,41 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1128
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+TypeError
+TypeError: Cannot read property 'equipSlots' of undefined
+    at Game_Actor.equips (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_EquipCore.js:343:44)
+    at Game_Actor.replaceAttackSkillId (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_WeaponUnleash.js:688:21)
+    at Game_Actor.Game_BattlerBase.attackSkillId (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_WeaponUnleash.js:513:14)
+    at Game_Actor._initBattleSkills (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:14708:47)
+    at Game_Actor.Game_Battler.initMembers (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:15722:10)
+    at Game_Actor.initMembers (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:3412:40)
+    at Game_Actor.initMembers (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:14093:29)
+    at Game_Actor.Game_BattlerBase.initialize (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:2191:10)
+    at Game_Actor.Game_Battler.initialize (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:2858:43)
+    at Game_Actor.initialize (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:3407:39)
+----------
+ERROR!
+Using AlphaABS [Build: 1128 ; on MV  1.6.1]
+----------
+ERROR!
+TypeError: Cannot read property 'equipSlots' of undefined
+    at Game_Actor.equips (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_EquipCore.js:343:44)
+    at Game_Actor.replaceAttackSkillId (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_WeaponUnleash.js:688:21)
+    at Game_Actor.Game_BattlerBase.attackSkillId (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_WeaponUnleash.js:513:14)
+    at Game_Actor._initBattleSkills (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:14708:47)
+    at Game_Actor.Game_Battler.initMembers (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:15722:10)
+    at Game_Actor.initMembers (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:3412:40)
+    at Game_Actor.initMembers (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:14093:29)
+    at Game_Actor.Game_BattlerBase.initialize (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:2191:10)
+    at Game_Actor.Game_Battler.initialize (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:2858:43)
+    at Game_Actor.initialize (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:3407:39)
+----------

@@ -1,0 +1,41 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1128
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+TypeError
+TypeError: Cannot read property '0' of undefined
+    at Game_Actor.initIndependentEquips (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_ItemCore.js:642:49)
+    at Game_Party.initActorEquips (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_ItemCore.js:725:15)
+    at Game_Party.setupStartingMembers (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_ItemCore.js:716:10)
+    at Game_Party.setupStartingMembers (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_PartySystem.js:500:50)
+    at Function.DataManager.setupNewGame (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:219:16)
+    at Function.DM.setupNewGame (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/LTN_Core.js:1246:36)
+    at Scene_Boot.start (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:402:21)
+    at Scene_Boot.start (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YED_Hospital.js:224:27)
+    at Scene_Boot.start (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/LTN_Core.js:1620:28)
+    at Scene_Boot.start (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:35529:23)
+----------
+ERROR!
+Using AlphaABS [Build: 1128 ; on MV  1.6.1]
+----------
+ERROR!
+TypeError: Cannot read property '0' of undefined
+    at Game_Actor.initIndependentEquips (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_ItemCore.js:642:49)
+    at Game_Party.initActorEquips (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_ItemCore.js:725:15)
+    at Game_Party.setupStartingMembers (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_ItemCore.js:716:10)
+    at Game_Party.setupStartingMembers (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YEP_PartySystem.js:500:50)
+    at Function.DataManager.setupNewGame (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_managers.js:219:16)
+    at Function.DM.setupNewGame (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/LTN_Core.js:1246:36)
+    at Scene_Boot.start (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_scenes.js:402:21)
+    at Scene_Boot.start (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/YED_Hospital.js:224:27)
+    at Scene_Boot.start (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/LTN_Core.js:1620:28)
+    at Scene_Boot.start (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:35529:23)
+----------
