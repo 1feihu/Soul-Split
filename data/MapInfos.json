@@ -70,12 +70,13 @@ null,
 {"id":68,"expanded":true,"name":"Snow Town Intro","order":8,"parentId":18,"scrollX":811,"scrollY":881},
 {"id":69,"expanded":false,"name":"Player Home 1","order":52,"parentId":8,"scrollX":811,"scrollY":619},
 {"id":70,"expanded":false,"name":"Player Home 1 Intro","order":9,"parentId":18,"scrollX":811,"scrollY":539},
-{"id":71,"expanded":false,"name":"Oshaa's House","order":73,"parentId":76,"scrollX":1109,"scrollY":453},
+{"id":71,"expanded":false,"name":"Oshaa's House","order":73,"parentId":76,"scrollX":819,"scrollY":453},
 {"id":72,"expanded":false,"name":"Church","order":54,"parentId":8,"scrollX":819,"scrollY":461},
 {"id":73,"expanded":false,"name":"East Exit","order":36,"parentId":61,"scrollX":811,"scrollY":499},
 {"id":74,"expanded":false,"name":"Bus Ticket Station","order":55,"parentId":8,"scrollX":832,"scrollY":640},
 {"id":75,"expanded":false,"name":"Tavern","order":74,"parentId":76,"scrollX":811,"scrollY":499},
-{"id":76,"expanded":true,"name":"Fishing Village","order":72,"parentId":2,"scrollX":1088,"scrollY":1004},
+{"id":76,"expanded":true,"name":"Fishing Village","order":72,"parentId":2,"scrollX":833,"scrollY":758},
 {"id":77,"expanded":true,"name":"WorldMap Overlay Test","order":78,"parentId":0,"scrollX":979,"scrollY":494},
-{"id":78,"expanded":false,"name":"Village House 1F","order":75,"parentId":76,"scrollX":832,"scrollY":640}
+{"id":78,"expanded":false,"name":"Village House 1F","order":75,"parentId":76,"scrollX":811,"scrollY":461},
+{"id":79,"expanded":false,"name":"MAP079","order":79,"parentId":0,"scrollX":1109,"scrollY":947}
 ]
